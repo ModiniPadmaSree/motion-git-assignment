@@ -21,3 +21,12 @@ This assignment is useful for practicing
 --merging 
  
 --collaboration through pull requests 
+Added new branch- develop for demonstration of PR 
+ 
+This project demonstrates: 
+ 
+Proper workflow for collaborating on projects 
+ 
+How to manages and tracks the code 
+ 
+The importance of clear commit messages and documentation 
