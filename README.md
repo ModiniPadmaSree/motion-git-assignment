@@ -1,8 +1,5 @@
 #Motion Git Assignment 
- 
 This assignment demonstrates the git and github basics 
- 
-1.Installation 
  
 Step-1: Cloning the repository using git clone command 
  
@@ -20,13 +17,4 @@ This assignment is useful for practicing
  
 --merging 
  
---collaboration through pull requests 
-Added new branch- develop for demonstration of PR 
- 
-This project demonstrates: 
- 
-Proper workflow for collaborating on projects 
- 
-How to manages and tracks the code 
- 
-The importance of clear commit messages and documentation 
+--collaboration through pull requests Added new branch- develop for demonstration of PR 
